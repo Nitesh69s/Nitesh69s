@@ -8,7 +8,7 @@
 - 🔭 I’m currently building **Machine Learning, Deep Learning, and Data Analysis** pipelines.
 - 🎓 Studying Computer Science and Engineering at Maulana Azad National Institute of Technology (MANIT).
 - 📈 Grinding Data Structures and Algorithms in **C++** on LeetCode and Codeforces.
-- 🎮 When I am away from the keyboard, you can find me optimizing PC game performanc
+- 🎮 When I am away from the keyboard, you can find me optimizing PC game performance.
 
 ### 🛠️ Tech Stack
 **Languages:**  
